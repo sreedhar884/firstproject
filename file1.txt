@@ -1,3 +1,7 @@
 file 1
 
 testing git commit -a
+
+git diff working area and staged area
+
+git diff --staged between staged area and local commited area
